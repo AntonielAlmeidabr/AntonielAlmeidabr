@@ -6,32 +6,32 @@ I'm actively seeking my first **REMOTE position**, eager to contribute my **anal
 
 ---
 
-### 🗝️ Minhas Super Forças e Trajetória
+### 🗝️ My Core Strengths & Background
 
-* **⚡ Transição Estratégica:** Minha base como Auditor de Hospitalidade me deu um **olhar de águia** para detalhes e processos. Estou fazendo uma transição de carreira bem-sucedida para Engenharia de Software, trazendo habilidades **analíticas, meticulosas e focadas em qualidade** diretamente para o código.
-* **🎓 Formação Sólida:** Atualmente, estou cursando **Engenharia de Software**, garantindo que minha prática seja sustentada por uma **forte base teórica** e princípios de design robustos.
-* **🤝 Espírito de Equipe (Agile):** Não sou apenas um codificador! Tenho experiência prática com metodologias **Agile** e cerimônias Scrum (Dailys, Plannings, Retros), garantindo colaboração eficaz e entregas transparentes.
-* **🗣️ Fluência Global:** Falo fluentemente **Inglês**, **Espanhol** e sou nativo em **Português (pt-BR)**. A comunicação é meu superpoder para integrar-me perfeitamente a equipes remotas internacionais.
+* **⚡ Strategic Career Transition:** My background in Hospitality Auditing has given me an **eagle-eye view** on detail and process quality. I'm successfully transitioning to Software Engineering, bringing these strong **analytical, meticulous, and quality-focused skills** directly into my code.
+* **🎓 Solid Education:** I am currently pursuing a degree in **Software Engineering**, ensuring my technical practice is underpinned by a **strong theoretical foundation** and robust design principles.
+* **🤝 Team Player (Agile Ready):** I’m not just a coder! I have hands-on experience with **Agile methodologies** and Scrum ceremonies (Dailys, Plannings, Retros), ensuring effective collaboration and transparent deliverables.
+* **🗣️ Global Fluency:** I am fluent in **English**, **Spanish**, and a native speaker of **Portuguese (pt-BR)**. Communication is my superpower for seamless integration into international remote teams.
 
 ---
 
-### 🛠️ Meu Arsenal Técnico: Foco Backend
+### 🛠️ My Technical Arsenal: Backend Focus
 
-Meu foco primário é desenvolver **sistemas Backend robustos** e **testados**.
+My primary focus is on developing **robust, well-tested backend systems**.
 
-| Categoria | Tecnologias Chave (Meu Foco Atual) |
+| Category | Key Technologies (My Current Focus) |
 | :--- | :--- |
-| 🎯 **Core Backend** | **Ruby on Rails** (meu framework de escolha!) · Ruby · **RESTful APIs** · RSpec (Testes são prioridade) |
-| 💾 **Bancos de Dados** | **PostgreSQL** (para sistemas robustos) · SQL · MySQL · Redis |
-| ☁️ **DevOps & Automação** | **CI/CD** (Integração e Deploy Contínuos) · **Docker** · GitHub Actions · Linux |
-| 🧰 **Colaboração** | Git · GitHub · Agile/Scrum · **Clean Code** e Princípios SOLID |
+| 🎯 **Core Backend** | **Ruby on Rails** (My framework of choice!) · Ruby · **RESTful APIs** · RSpec (Testing is my priority) |
+| 💾 **Databases** | **PostgreSQL** (for robust systems) · SQL · MySQL · Redis |
+| ☁️ **DevOps & Automation** | **CI/CD** (Continuous Integration & Deployment) · **Docker** · GitHub Actions · Linux |
+| 🧰 **Collaboration** | Git · GitHub · Agile/Scrum · **Clean Code** & SOLID Principles |
 
 ---
 
-### 🎓 Educação & Filosofia
+### 🎓 Education & Code Philosophy
 
-* **Engenharia de Software:** Formação contínua com foco em design de sistemas resilientes.
-* **Filosofia de Código:** Conhecimento sólido em **Programação Orientada a Objetos (OOP)** e a aplicação dos Princípios **SOLID** para escrever código que dura.
+* **Software Engineering:** Continuous studies focusing on resilient system design.
+* **Code Philosophy:** Solid knowledge of **Object-Oriented Programming (OOP)** and applying **SOLID Principles** to write code that lasts.
 
 ---
 
