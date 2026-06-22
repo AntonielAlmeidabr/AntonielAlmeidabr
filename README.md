@@ -10,7 +10,7 @@ I'm focused on turning complex datasets and business logic into elegant, optimiz
 
 * 🎯 **Strategic Career Transition:** My extensive background in premium hospitality and auditing gives me an eagle-eye view on detail, process quality, and adaptability. I naturally bring these analytical, meticulous skills directly into my software architecture.
 * 🎓 **Solid Education:** Concurrently pursuing degrees in Software Engineering and Data Science, ensuring my technical practice is underpinned by strong theoretical foundations and modern design patterns.
-* 🌐 **Global Fluency:** Highly communicative and fluent in **English, Spanish, French**, and a native speaker of **Portuguese**. Communication and cultural adaptability are my superpowers for global collaboration.
+* 🌐 Global Fluency & Learning: Fluent in English and Spanish (Native Portuguese), and currently expanding my vocabulary in French. Communication and cultural adaptability are my superpowers for global collaboration.
 
 ---
 
