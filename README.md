@@ -1,40 +1,35 @@
-👋 Hey there, I'm **Antoniel Almeida**! 🚀
+# ⚡ Hey there, I'm Antoniel Almeida! 🚀
 
-A Brazilian **Junior Backend Developer** with a passion for crafting clean, **scalable solutions** using **Ruby on Rails**.
+A Brazilian Software Engineering and Data Science student passionate about crafting clean, data-driven backend solutions using Python.
 
-I'm actively seeking my first **REMOTE position**, eager to contribute my **analytical rigor** and foundational technical skills to a global team. I'm ready to turn complex problems into elegant code! 💡
-
----
-
-### 🗝️ My Core Strengths & Background
-
-* **⚡ Strategic Career Transition:** My background in Hospitality Auditing has given me an **eagle-eye view** on detail and process quality. I'm successfully transitioning to Software Engineering, bringing these strong **analytical, meticulous, and quality-focused skills** directly into my code.
-* **🎓 Solid Education:** I am currently pursuing a degree in **Software Engineering**, ensuring my technical practice is underpinned by a **strong theoretical foundation** and robust design principles.
-* **🤝 Team Player (Agile Ready):** I’m not just a coder! I have hands-on experience with **Agile methodologies** and Scrum ceremonies (Dailys, Plannings, Retros), ensuring effective collaboration and transparent deliverables.
-* **🗣️ Global Fluency:** I am fluent in **English**, **Spanish**, and a native speaker of **Portuguese (pt-BR)**. Communication is my superpower for seamless integration into international remote teams.
+I'm focused on turning complex datasets and business logic into elegant, optimized code while building a solid foundation in data pipeline architecture.
 
 ---
 
-### 🛠️ My Technical Arsenal: Backend Focus
+### 🔑 My Core Strengths & Background
 
-My primary focus is on developing **robust, well-tested backend systems**.
+* 🎯 **Strategic Career Transition:** My extensive background in premium hospitality and auditing gives me an eagle-eye view on detail, process quality, and adaptability. I naturally bring these analytical, meticulous skills directly into my software architecture.
+* 🎓 **Solid Education:** Concurrently pursuing degrees in Software Engineering and Data Science, ensuring my technical practice is underpinned by strong theoretical foundations and modern design patterns.
+* 🌐 **Global Fluency:** Highly communicative and fluent in **English, Spanish, French**, and a native speaker of **Portuguese**. Communication and cultural adaptability are my superpowers for global collaboration.
+
+---
+
+### 🛠️ My Technical Arsenal: Focus on Python & Data
+
+My primary focus is on developing robust backend scripts, automated workflows, and relational database structures.
 
 | Category | Key Technologies (My Current Focus) |
 | :--- | :--- |
-| 🎯 **Core Backend** | **Ruby on Rails** (My framework of choice!) · Ruby · **RESTful APIs** · RSpec (Testing is my priority) |
-| 💾 **Databases** | **PostgreSQL** (for robust systems) · SQL · MySQL · Redis |
-| ☁️ **DevOps & Automation** | **CI/CD** (Continuous Integration & Deployment) · **Docker** · GitHub Actions · Linux |
-| 🧰 **Collaboration** | Git · GitHub · Agile/Scrum · **Clean Code** & SOLID Principles |
+| 🐍 **Core Backend** | **Python** (My language of choice!) · Data Manipulation · OOP Principles |
+| 📊 **Data & Analytics** | **Pandas** · Data Cleaning · ETL Basics · API Integration |
+| 🗄️ **Databases** | **SQL** · PostgreSQL · SQLite · Database Modeling |
+| 🛠️ **DevOps & Tools** | **Git** · GitHub · Linux Environment |
 
 ---
 
-### 🎓 Education & Code Philosophy
+### 🧠 Education & Code Philosophy
 
-* **Software Engineering:** Continuous studies focusing on resilient system design.
-* **Code Philosophy:** Solid knowledge of **Object-Oriented Programming (OOP)** and applying **SOLID Principles** to write code that lasts.
+* **Academic Path:** Continuous academic projects focused on network layers, data structures, and software quality assurance.
+* **Code Quality:** Dedicated to learning clean code, SOLID principles, and writing human-readable, maintainable logic.
 
----
-
-> **Let’s connect and build something GREAT! 🏗️**
->
-> 💼 **LinkedIn:** [www.linkedin.com/in/antoniel-almeida-b26819192]
+Let's build something great! 🚀
